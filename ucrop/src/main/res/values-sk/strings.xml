@@ -2,4 +2,6 @@
     <string name="ucrop_label_edit_photo">Upraviť fotografiu</string>
     <string name="ucrop_label_original">Pôvodná</string>
     <string name="ucrop_menu_crop">Orezať</string>
+    <string name="ucrop_error_input_data_is_absent">Obaja vstupné a výstupné Uri musí byť zadaná</string>
+    <string name="ucrop_mutate_exception_hint">Preto potlačiť farebný zdroj (ucrop_color_toolbar_widget) vo vašej aplikácii, aby to fungovalo na pre-L prístrojov</string>
 </resources>
